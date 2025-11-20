@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FruitsApplication {
+public class ColorsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FruitsApplication.class, args);
+        SpringApplication.run(ColorsApplication .class, args);
     }
 }
